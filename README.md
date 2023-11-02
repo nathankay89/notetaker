@@ -10,11 +10,11 @@ I want to be able to keep track of tasks I need to complete.
 
 ## Screenshots 
 
-![First note](/Develop/routes/public/assets/images/firstnote.png)
+![First note](/routes/public/assets/images/firstnote.png)
 
-![Saved note](/Develop/routes/public/assets/images/savednote.png)
+![Saved note](/routes/public/assets/images/savednote.png)
 
-![Deleted note](/Develop/routes/public/assets/images/deletednote.png)
+![Deleted note](/routes/public/assets/images/deletednote.png)
 
 ## Installation 
 
