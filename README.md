@@ -26,4 +26,6 @@ node server.js
 
 and host a local server and open the website
 
-# Heroku link: [insert link]
+# Heroku link: 
+
+https://nates-note-taker-e27c5b696dd7.herokuapp.com/
